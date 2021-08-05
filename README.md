@@ -59,6 +59,10 @@ Here are some ideas to get you started:
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 <p align="center">
 <a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
 </p>
