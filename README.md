@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faizan </h1>
 <h3 align="center">WordPress Plugins | Themes Engineer </h3>
+<h4 align="center">4 years of experience in Plugins Development.</h4>
 <p align="center">
+<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wp_muhammad_faizan_haidar" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01c9487f998e65bbee" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="up_muhammad_faizan_haidar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/faizanhaider594" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_muhammad_faizan_haidar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-faizan-haidar-963161150/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="muhammad_faizan_haidar" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/muhammad_faizan_haidar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_muhammad_faizan_haidar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004267392010" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_muhammad_faizan_haidar" height="30" width="40" /></a>
  <a href = "mailto: faizanhaider594@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -58,9 +61,13 @@ Here are some ideas to get you started:
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a Gutenberg Block Plugin **Php language**<br>
 ✔ I’m currently learning about **React**🥰<br>
+✔ An open source contributor. Please find my free plugin on 
+  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment For LifterLMS</a>**<br>
+✔ A continuous language transaltion contributor 
+  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
 ✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -106,5 +113,6 @@ Here are some ideas to get you started:
 Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
 
 Last Edited on: 05/08/2021
+
 
 
