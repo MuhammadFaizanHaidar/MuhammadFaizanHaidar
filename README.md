@@ -12,26 +12,57 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Muhammad Faizan Haidar. I Love ❤️ programming and currently working as WordPress Engineer( Associated with WaaSHero ). </p>
-<img align="right" src="https://p.kindpng.com/picc/s/63-631352_transparent-ninja-turtles-face-png-ninja-turtles-mask.png" height="300" width="300">
-<h3 align="center"> Language, Skills & Frame Works </h3>
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
 
-- Php
-- C++
-- JavaScipt
-- Web Development
-- WordPress Development
-- React
-- App Development
-- Laravel
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faian </h1>
+<h3 align="center">WordPress Plugins | Themes Engineer </h3>
+<p align="center">
+<a href="https://www.hackerrank.com/faizanhaider594" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-faizan-haidar-963161150/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/wordpress/wordpress-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhammad_faizan_haidar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004267392010" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+</p>
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- - 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/) -->
+<p align="center">
+  <em>
+    Hello, I am Muhammad Faizan Haidar a <b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Quaid-i-Azam University</b>, Pakistan Islamabad (" Quaidian Once Quaidian Forever ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>WordPress Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a Gutenberg Block Plugin **Php language**<br>
+✔ I’m currently learning about **React**🥰<br>
+✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+ 
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
@@ -59,15 +90,20 @@ Here are some ideas to get you started:
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <p align="center">
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-<p align="center">
-<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
+
+<hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
+
 
 -----
-Credits: [muhammadfaizanhaidar](https://github.com/muhammadfaizanhaidar)
+Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
 
 Last Edited on: 05/08/2021
+
