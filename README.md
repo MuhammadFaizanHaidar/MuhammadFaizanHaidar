@@ -99,7 +99,7 @@ Here are some ideas to get you started:
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
 </p>
@@ -147,7 +147,6 @@ Here are some ideas to get you started:
   <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
@@ -178,4 +177,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
 
-Last Edited on: 05/08/2021
+Last Edited on: 17/08/2021
