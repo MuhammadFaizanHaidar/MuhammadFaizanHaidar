@@ -65,6 +65,8 @@ Here are some ideas to get you started:
   **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
 ✔ A continuous language transaltion contributor 
   **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
+✔ A continuous Openverse contributor 
+  **<a href="https://github.com/WordPress/openverse-frontend/graphs/contributors">Openverse</a>** <br>
 ✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
@@ -177,4 +179,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
 
-Last Edited on: 17/08/2021
+Last Edited on: 24/09/2021
