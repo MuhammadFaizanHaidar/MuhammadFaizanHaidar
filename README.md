@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ✔ A continuous language transaltion contributor 
   **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
 ✔ A continuous Openverse contributor 
-  **<a href="https://github.com/WordPress/openverse-frontend/graphs/contributors">Openverse</a>** <br>
+  **<a href="https://github.com/WordPress/openverse-api/graphs/contributors">Openverse Api</a>** **<a href="https://github.com/WordPress/openverse-catalog/graphs/contributors">Openverse Catalog</a>** **<a href="https://github.com/WordPress/openverse-frontend/graphs/contributors">Openverse Frontend</a>** <br>
 ✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
