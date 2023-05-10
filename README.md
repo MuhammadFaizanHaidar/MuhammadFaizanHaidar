@@ -166,8 +166,8 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
@@ -179,4 +179,4 @@ Here are some ideas to get you started:
 -----
 Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
 
-Last Edited on: 24/09/2021
+Last Edited on: 20/05/2023
